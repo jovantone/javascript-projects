@@ -1,16 +1,16 @@
 // Declare and assign the variables below
-let shuttleName = ('Determinaton');
-let shuttleSpeedMph = (17500);
-let distanceMarsKm = (225000000);
-let distanceMoonKm = (384400);
-const mpkm = (.621);
+let shuttleName = 'Determinaton';
+let shuttleSpeedMph = 17500;
+let distanceMarsKm = 225000000;
+let distanceMoonKm = 384400;
+const mpkm = .621;
 
 // Use console.log to print the 'typeof' each variable. Print one item per line.
-console.log(typeof "Determination");
-console.log(typeof 17500);
-console.log(typeof 225000000);
-console.log(typeof 384400);
-console.log(typeof .621);
+console.log(typeof(shuttleName) );
+console.log(typeof(shuttleSpeedMph));
+console.log(typeof(distanceMarsKm));
+console.log(typeof(distanceMoonKm));
+console.log(typeof(mpkm));
 
 // Calculate a space mission below
 
