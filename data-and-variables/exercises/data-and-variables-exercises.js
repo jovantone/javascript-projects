@@ -9,22 +9,12 @@
 // Calculate a trip to the moon below
 
 // Print the results of the trip to the moon below
-console.log ('"Hello World!"' ,'What Up!');
-console.log ("It's My Time To Shine!")
-console.log ('1')
-console.log ('(1+2)')
-console.log ('One')
-console.log ('After')
-console.log ('Another')
-console.log ('"Quotes"')
+let shuttleName = 'Determinaton';
+console.log (shuttleName);
 
-let message = "Hello, World!";
-console.log(message);
+let shuttleSpeedMph = (17500);
+console.log (shuttleSpeedMph);
 
-let day = 'Friday';
-console.log(day);
-
-console.log (2 ** 2 ** 3 * 3)
-console.log(1 + 5 % 3);
+let distanceMoonKm = (225000000);
 
 
