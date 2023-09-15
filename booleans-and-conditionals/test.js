@@ -6,3 +6,5 @@ console.log(Boolean(''));
 console.log(Boolean('LaunchCode'));
 
 console.log(4 === "4");
+/*class thursday*/
+
