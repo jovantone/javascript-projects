@@ -1,4 +1,6 @@
-console.log ('What\n Time\nIs\n It?');
+const input = require('readline-sync');
+
+console.log('What\n Time\nIs\n It?');
 
 console.log(Number(48956));
 
@@ -30,4 +32,5 @@ if (a % 2 === 1) {
    console.log("LaunchCode");
 }
 
-console.log ('day';
+let city = 'St. Louis';
+console.log('What ' + city);
